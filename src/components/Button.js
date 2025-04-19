@@ -1,4 +1,4 @@
-import  { Children } from 'react'
+import  { children } from 'react'
 
 export const Button = ({children}) => {
   return (
